@@ -22,3 +22,6 @@ while you inside the app
 
 you can also build the exe using
 > python build_exe.py
+
+
+i want to give you the EXE file but i cant upload on the coz the size was too big
