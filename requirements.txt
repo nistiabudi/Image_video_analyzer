@@ -1,0 +1,12 @@
+PyQt6
+Pillow
+pandas
+google-generativeai
+pyinstaller
+opencv-python
+tenacity
+svglib
+reportlab
+piexif
+# pdf2image  # Optional, untuk handling PDF
+# ghostscript  # Optional, untuk handling EPS
